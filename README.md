@@ -4,7 +4,7 @@
 
 Projeto de manipulação de dados, através de queries SQL, desenvolvido durante o curso de Desenvolvimento Web Full Stack da Trybe. Cada arquivo iniciado pela palavra desafio armazena uma query SQL escrita por mim para manipular os dados do banco de acordo com o que foi pedido.
 
-⚠️ O arquivo northwind.sql é responsável pela criação do banco de dados e foi fornecido pela Trybe.
+⚠️ O arquivo ``northwind.sql`` é responsável pela criação do banco de dados e foi fornecido pela Trybe.
 
 <strong> Os principais comandos SQL praticados nesse projeto foram: </strong>
 
